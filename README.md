@@ -28,7 +28,7 @@ npm start
 
 ## Example GitHub Actions Workflow: Node.js CI
 
-```yaml
+```txt
 name: Node.js CI
 
 on:
